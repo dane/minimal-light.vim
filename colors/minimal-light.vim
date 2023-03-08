@@ -24,7 +24,7 @@ hi Search       guifg=#555555  guibg=#BBBBBB   gui=bold
 
 " Black & white
 hi Cursor       guifg=#000000  guibg=#FFFFFF gui=NONE
-hi ErrorMsg     guifg=#FFFFFF  guibg=NONE    gui=bold
+hi ErrorMsg     guifg=#000000  guibg=NONE    gui=bold
 
 " Dark grey
 hi Comment      guifg=#BBBBBB  guibg=NONE  gui=NONE
