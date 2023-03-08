@@ -88,7 +88,7 @@ hi ModeMsg                   guifg=#555555  guibg=NONE  gui=NONE
 hi MoreMsg                   guifg=#555555  guibg=NONE  gui=NONE
 hi NONE                      guifg=#555555  guibg=NONE  gui=NONE
 hi Noise                     guifg=#555555  guibg=NONE  gui=NONE
-hi NonText                   guifg=#FFEEEE  guibg=NONE  gui=NONE
+hi NonText                   guifg=#DDDDDD  guibg=NONE  gui=NONE
 hi NONE                      guifg=#555555  guibg=NONE  gui=NONE
 hi Normal                    guifg=#555555  guibg=NONE  gui=NONE
 hi Number                    guifg=#555555  guibg=NONE  gui=NONE
