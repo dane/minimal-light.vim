@@ -15,16 +15,16 @@ hi StatusLine   guifg=#DDDDDD  guibg=#999999  gui=bold
 hi StatusLineNC guifg=#DDDDDD  guibg=#999999  gui=NONE
 
 " Auto-complete menu
-hi Pmenu        guifg=#000000  guibg=#BBBBBB   gui=NONE
-hi PmenuSel     guifg=#000000  guibg=#CCCCCC   gui=bold
+hi Pmenu        guifg=#222222  guibg=#BBBBBB   gui=NONE
+hi PmenuSel     guifg=#222222  guibg=#CCCCCC   gui=bold
 
 " Selections
 hi Visual       guifg=#555555  guibg=#BBBBBB   gui=NONE
 hi Search       guifg=#555555  guibg=#BBBBBB   gui=bold
 
 " Black & white
-hi Cursor       guifg=#000000  guibg=#FFFFFF gui=NONE
-hi ErrorMsg     guifg=#000000  guibg=NONE    gui=bold
+hi Cursor       guifg=#222222  guibg=#FFFFFF gui=NONE
+hi ErrorMsg     guifg=#222222  guibg=NONE    gui=bold
 
 " Dark grey
 hi Comment      guifg=#BBBBBB  guibg=NONE  gui=NONE
